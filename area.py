@@ -1,0 +1,16 @@
+#interger
+a=10
+print("type",type(a))
+print("value",a)
+#float
+f=10.2
+print("type",type(f))
+print("value",f)
+#string
+d="isya"
+print("type",type(d))
+print("value",d)
+#boolean
+b=true
+print("type",type(b))
+print("value",b)
